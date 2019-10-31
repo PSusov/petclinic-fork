@@ -1,0 +1,8 @@
+Sonar-Verified+1: CI Jenkins
+Verified+1: CI Jenkins
+Code-Review+2: pavel_suslov@epam.com <pavel_suslov@epam.com>
+Submitted-by: pavel_suslov@epam.com <pavel_suslov@epam.com>
+Submitted-at: Thu, 31 Oct 2019 08:07:01 +0000
+Reviewed-on: https://gerrit-testing6-suslov-edp-cicd.qa.edp-epam.com/1
+Project: petclinic2
+Branch: refs/heads/master
