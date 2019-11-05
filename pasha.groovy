@@ -1,0 +1,1 @@
+println "echo 'this is pasha.groovy'"
