@@ -47,7 +47,6 @@ $ cd backend
 $  mvn package
 ```
 
-
 ## Maven Local Run
 To run in local environment it is reasonable to use hsqldb and liquibase. Maven profile **hsqldb** can do that.
 
